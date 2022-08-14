@@ -21,7 +21,7 @@ const ListadoNoticias = () => {
             fontWeight:"bold"
         }}
       >
-        Últimas Noticias
+        Latests News
       </Typography>
 
       <Grid container spacing={4}>

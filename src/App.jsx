@@ -11,7 +11,7 @@ function App() {
           <Typography align="center" marginY={5} variant="h3" sx={{
             fontWeight:"bold"
           }} component="h1">
-            Buscador de Noticias
+            News Searcher
           </Typography>
         </header>
 
